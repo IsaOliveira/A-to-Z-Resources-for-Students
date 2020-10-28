@@ -200,9 +200,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  [PluralSight - Android Developer Track](https://www.pluralsight.com/paths/android) :heavy_dollar_sign:
 -  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
 -  [Google Android Codelabs](https://codelabs.developers.google.com/)
--  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
 -  [Android examples ](https://github.com/nisrulz/android-examples)
--  [Flutter Examples](https://github.com/nisrulz/flutter-examples)
 -  [Pathway to Follow ](https://roadmap.sh/android)
 
 
@@ -583,6 +581,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Go,Progate](https://progate.com/languages/go)
 - [Go lang Tutorial For Beginners,Edureka Youtube](https://www.youtube.com/watch?v=Q0sKAMal4WQ)
 - [Go by Example](https://gobyexample.com/)
+
+## 1.24 Flutter
+-  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
+-  [Flutter Examples](https://github.com/nisrulz/flutter-examples)
 
 ---
 
